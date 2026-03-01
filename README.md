@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinhngockh/SneakerAI/main/frontend/public/favicon.ico" alt="SneakerAI Logo" width="100"/>
   <h1>SneakerAI 👟🤖</h1>
   <p><strong>A premium, full-stack AI-powered sneaker resale prediction platform.</strong></p>
 </div>
@@ -86,6 +84,19 @@ python train.py
 This routine updates the model located at `backend/app/models/xgboost_model.pkl`.
 
 ---
+
+## UI
+
+<img width="1919" height="914" alt="Screenshot 2026-03-01 162620" src="https://github.com/user-attachments/assets/43ae0b33-e830-4852-bef5-60ddeba87469" />
+
+<img width="1919" height="909" alt="Screenshot 2026-03-01 162649" src="https://github.com/user-attachments/assets/cc991e3b-8da8-4285-9042-fa736285062b" />
+
+<img width="1907" height="914" alt="Screenshot 2026-03-01 162715" src="https://github.com/user-attachments/assets/de9e8808-cdc6-490c-be95-90767182395e" />
+
+<img width="1913" height="906" alt="Screenshot 2026-03-01 162729" src="https://github.com/user-attachments/assets/fc676652-37ab-4d43-b4dc-e676ad8b1348" />
+
+<img width="1912" height="896" alt="Screenshot 2026-03-01 162740" src="https://github.com/user-attachments/assets/9e9aca7f-9bef-4a9e-901f-ac112d6cd7ff" />
+
 
 ## 🎯 Sustainable Development Goals (SDG)
 
